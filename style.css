@@ -1,5 +1,45 @@
+/* 
+Color palette:
+F0A500
+334756
+082032
+000000
+darkorchid
+*/
+
+* {
+  font-family: "Josefin Sans", Helvetica;
+  background-color: #334756;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #f0a500;
+}
+
+thead {
+  color: #082032;
+}
+
+td {
+  border: 1px solid black;
+
+  padding: 10px;
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+  width: 650px;
+  margin: 0 auto;
+  color: white;
+}
+
 .code {
-  background-color: beige;
   font-weight: bold;
-  color: blue;
+  color: #f0a500;
 }
